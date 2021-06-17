@@ -6,6 +6,7 @@ I am Migara Bhanu, and I am a Web Developer and Graphic Designer.
 
 
 Technologies & Tools
+
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=8d81c2)
 
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007acc)
@@ -14,7 +15,7 @@ Technologies & Tools
 
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML&logoColor=white&color=e9d44d)
 
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=js&logoColor=white&color=5ed3f3)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=5ed3f3)
 
 ![](https://img.shields.io/badge/Design-CSS-informational?style=flat&logo=css&logoColor=white&color=2bbc8a)
 
