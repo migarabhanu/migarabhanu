@@ -1,7 +1,7 @@
 # Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-**I am Migara Bhanu, and I am a Web Developer and Graphic Designer.
+**I am Migara Bhanu, and I am a Web Developer and Graphic Designer.**
 
 
 
@@ -13,11 +13,11 @@ Technologies & Tools
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=356a97)
 
-![](https://img.shields.io/badge/Code-Hypertext-informational?style=flat&logo=HTML&logoColor=white&color=e9d44d)
+![](https://img.shields.io/badge/Code-Hypertext-informational?style=flat&logo=fire&logoColor=white&color=e9d44d)
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=5ed3f3)
 
-![](https://img.shields.io/badge/Design-CSS-informational?style=flat&logo=css&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/CSS-CSS-informational?style=flat&logo=&logoColor=white&color=2bbc8a)
 
 
 
