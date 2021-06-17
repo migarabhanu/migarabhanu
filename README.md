@@ -7,17 +7,7 @@
 
 Technologies & Tools
 
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=8d81c2)
-
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007acc)
-
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=356a97)
-
-![](https://img.shields.io/badge/Code-Hypertext-informational?style=flat&logo=fire&logoColor=white&color=e9d44d)
-
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=5ed3f3)
-
-![](https://img.shields.io/badge/CSS-CSS-informational?style=flat&logo=&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=8d81c2)![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007acc)![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=356a97)![](https://img.shields.io/badge/Code-Hypertext-informational?style=flat&logo=fire&logoColor=white&color=e9d44d)![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=5ed3f3)![](https://img.shields.io/badge/CSS-CSS-informational?style=flat&logo=&logoColor=white&color=2bbc8a)
 
 
 
