@@ -19,4 +19,4 @@ GitHub Stats
 
 [![Migara](https://github-readme-stats.vercel.app/api?username=migarabhanu&show_icons=true&theme=tokyonight)](https://github.com/migarabhanu)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hammerdix&title_color=3174e7&text_color=37bc9c&show_icons=true&icon_color=be90f2&bg_color=1d1f21)](https://github.com/hammerdix)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=migarabhanu&title_color=3174e7&text_color=37bc9c&show_icons=true&icon_color=be90f2&bg_color=1d1f21)](https://github.com/migarabhanu)
