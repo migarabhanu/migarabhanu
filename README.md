@@ -25,4 +25,4 @@ print("Hello I am Migara")
 cout("Hello I am Migara")
 ```
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binura-weragoda&title_color=3174e7&text_color=37bc9c&show_icons=true&icon_color=be90f2&bg_color=1d1f21)](https://github.com/binura-weragoda)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=migarabhanu&title_color=3174e7&text_color=37bc9c&show_icons=true&icon_color=be90f2&bg_color=1d1f21)](https://github.com/migarabhanu)
