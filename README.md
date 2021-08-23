@@ -6,7 +6,7 @@
 <br>
 
 
-***I'm using these tools...***
+***I'm using these applications...***
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=8d81c2)  ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007acc)  ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=356a97)
 ![](https://img.shields.io/badge/Code-Hypertext-informational?style=flat&logo=web&logoColor=white&color=e9d44d)  
