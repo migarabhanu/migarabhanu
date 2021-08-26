@@ -8,7 +8,7 @@
 
 ***I'm using these applications...***
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=8d81c2)  ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007acc)  ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=356a97)
+![](https://img.shields.io/badge/OS-LinuxElementary-informational?style=flat&logo=Linux&logoColor=white&color=8d81c2)  ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007acc)  ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=356a97)
 ![](https://img.shields.io/badge/Code-Hypertext-informational?style=flat&logo=web&logoColor=white&color=e9d44d)  
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=5ed3f3)  ![](https://img.shields.io/badge/RTE-NodeJS-informational?style=flat&logo=RTE&logoColor=white&color=2bbc8a)
 
