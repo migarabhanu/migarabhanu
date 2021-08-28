@@ -15,7 +15,7 @@
 
 ***
 
-[![Migara](https://github-readme-stats.vercel.app/api?username=migarabhanu&show_icons=true&theme=tokyonight)](https://github.com/migarabhanu)
+[![Migara](https://github-readme-stats.vercel.app/api?username=migarabhanu&show_icons=true&theme=dracula)](https://github.com/migarabhanu)
 
 
 ```JavaScript
@@ -26,4 +26,5 @@ cout("Hello I am Migara")
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=migarabhanu&theme=dracula)](https://git.io/streak-stats)
 
-[![Best_Works ](https://github-readme-stats.vercel.app/api/top-langs/?username=migarabhanu&title_color=3174e7&text_color=37bc9c&show_icons=true&icon_color=be90f2&bg_color=1d1f21)](https://github.com/migarabhanu)
+[![Best_Works ](https://github-readme-stats.vercel.app/api/top-langs/?username=migarabhanu&title&theme=dracula)](https://github.com/migarabhanu)
+
