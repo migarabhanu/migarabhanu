@@ -6,7 +6,7 @@
 
 ***I'm using these applications...***
 
-![](https://img.shields.io/badge/OS-LinuxElementary-informational?style=flat&logo=Linux&logoColor=white&color=8d81c2) ![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007acc) 
+![](https://img.shields.io/badge/OS-LinuxElementary-informational?style=flat&logo=Linux&logoColor=white&color=8d81c2) ![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Editor-Sublime-Text-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007acc) 
 <br>
 ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby&logoColor=white&color=f21279)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=356a97)
