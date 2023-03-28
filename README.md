@@ -14,7 +14,7 @@
 
 ***
 
-[![Migara](https://github-readme-stats.vercel.app/api?username=migarabhanu&show_icons=true&theme=dracula)](https://github.com/migarabhanu)
+<img src="https://img.shields.io/badge/Supported%20by-VSCode%20Power%20User%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
 
 
 ```JavaScript
