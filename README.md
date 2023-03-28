@@ -2,6 +2,7 @@
 **I am Migara Bhanu, I am a Web Developer and a Programmer.**
 <br>
 <br>
+<img src="https://acicts.github.io/acicts18.github.io/assets/img/AC_ACICTS_1.png" alt="Give india logo" width="200" />
 
 
 ***I'm using these applications...***
@@ -23,12 +24,13 @@ print("Hello I am Migara")
 cout("Hello I am Migara")
 ```
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=migarabhanu&theme=dracula)](https://git.io/streak-stats)
+[![Best_Works ](https://github-readme-stats.vercel.app/api/top-langs/?username=migarabhanu&theme=dracula)](https://github.com/migarabhanu)
 
 ***I am using these Media platforms...***
 
 ![](https://img.shields.io/badge/YouTube-informational?style=flat&logo=Youtube&logoColor=white&color=red) ![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=GitHUb&logoColor=white&color=8d81c2) ![](https://img.shields.io/badge/Discord-informational?style=flat&logo=Discord&logoColor=white&color=blue)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=migarabhanu&theme=dracula)](https://git.io/streak-stats)
 
-[![Best_Works ](https://github-readme-stats.vercel.app/api/top-langs/?username=migarabhanu)](https://github.com/migarabhanu)
+
 
