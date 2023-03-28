@@ -30,5 +30,5 @@ cout("Hello I am Migara")
 ![](https://img.shields.io/badge/YouTube-informational?style=flat&logo=Youtube&logoColor=white&color=red) ![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=GitHUb&logoColor=white&color=8d81c2) ![](https://img.shields.io/badge/Discord-informational?style=flat&logo=Discord&logoColor=white&color=blue)
 
 
-[![Best_Works ](https://github-readme-stats.vercel.app/api/top-langs/?username=migarabhanu&title&theme=dracula)](https://github.com/migarabhanu)
+[![Best_Works ](https://github-readme-stats.vercel.app/api/top-langs/?username=migarabhanu)](https://github.com/migarabhanu)
 
