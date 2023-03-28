@@ -14,7 +14,7 @@
 
 ***
 
-<img src="https://img.shields.io/badge/CoFounder%20of%20Hammerdix%20LK%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CoFounder%20of%20Hammerdix-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
 
 
 ```JavaScript
