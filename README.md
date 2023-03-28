@@ -2,7 +2,7 @@
 **I am Migara Bhanu, I am a Web Developer and a Programmer.**
 <br>
 <br>
-<img src="https://acicts.github.io/acicts18.github.io/assets/img/AC_ACICTS_1.png" alt="Give india logo" width="200" />
+<img src="https://acicts.github.io/acicts18.github.io/assets/img/AC_ACICTS_1.png" alt="acicts" width="200" />
 
 
 ***I'm using these applications...***
