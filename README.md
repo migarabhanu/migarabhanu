@@ -14,7 +14,7 @@
 
 ***
 
-<img src="https://img.shields.io/badge/CoFounder%20of%20Hammerdix-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CoFounder%20of%20HammerdixLK-gray.svg?colorA=655BE1&colorB=red&style=for-the-badge"/><img src="https://img.shields.io/badge/Member%20of%20ACICTS%20-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
 
 
 ```JavaScript
